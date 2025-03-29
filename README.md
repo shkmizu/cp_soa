@@ -7,8 +7,8 @@ Este projeto foi desenvolvido como parte do checkpoint da disciplina de **Arquit
 O objetivo deste projeto é aplicar os conceitos de **desenvolvimento de API com Spring Boot** e **arquitetura orientada a serviços**, permitindo operações básicas de CRUD sobre a entidade **Pedido**.
 
 ## 👥 Integrantes
-- **Vitor Shimizu**
-- **Leonardo Ruiz**
+- **Vitor Shimizu Farias de Campos RM550390**
+- **Leonardo de Oliveira Ruiz RM98901**
 
 ---
 
