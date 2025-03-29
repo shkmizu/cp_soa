@@ -1,4 +1,4 @@
-# fiap-checkpoint1
+# FIAP-SOA-CP
 
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido como parte do checkpoint da disciplina de **Arquitetura Orientada a Serviços (SOA)** na FIAP. A aplicação consiste em uma API REST utilizando **Spring Boot** para cadastrar e gerenciar pedidos de clientes.
