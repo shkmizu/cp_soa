@@ -141,14 +141,12 @@ A API expõe os seguintes endpoints:
 ## 📸 Testes no Postman
 Aqui estão os prints dos testes realizados no **Postman**:
 1. **Criar um novo pedido**
-   - 📷 *[Print 1]*
+   - 📷 ![postman-post](https://github.com/user-attachments/assets/2c835524-bc54-4401-8fd4-38ca044f68fa)
 2. **Buscar todos os pedidos**
-   - 📷 *[Print 2]*
-3. **Buscar um pedido pelo ID**
-   - 📷 *[Print 3]*
-4. **Atualizar um pedido**
-   - 📷 *[Print 4]*
-5. **Deletar um pedido**
-   - 📷 *[Print 5]*
+   - 📷 ![postman](https://github.com/user-attachments/assets/ca4fd2a8-6d2d-4e49-ad97-175288a0841e)
+3. **Atualizar um pedido**
+   - 📷 ![postman-put](https://github.com/user-attachments/assets/e1fe6cb4-6bc2-459d-bf8b-efbf2494fd0b)
+4. **Deletar um pedido**
+   - 📷 ![postman-delete](https://github.com/user-attachments/assets/66f993ee-b9d3-4b26-803b-01348413d2c5)
 
 ---
