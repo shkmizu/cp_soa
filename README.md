@@ -73,7 +73,7 @@ A API expõe os seguintes endpoints:
 - **Exemplo de Request (JSON):**
   ```json
   {
-    "clienteNome": "João Silva",
+    "clienteNome": "Vitor Shimizu",
     "valorTotal": 150.00
   }
   ```
@@ -81,7 +81,7 @@ A API expõe os seguintes endpoints:
   ```json
   {
     "id": 1,
-    "clienteNome": "João Silva",
+    "clienteNome": "Vitor Shimizu",
     "dataPedido": "2024-03-28",
     "valorTotal": 150.00
   }
@@ -94,7 +94,7 @@ A API expõe os seguintes endpoints:
   [
     {
       "id": 1,
-      "clienteNome": "João Silva",
+      "clienteNome": "Vitor Shimizu",
       "dataPedido": "2024-03-28",
       "valorTotal": 150.00
     }
@@ -107,7 +107,7 @@ A API expõe os seguintes endpoints:
   ```json
   {
     "id": 1,
-    "clienteNome": "João Silva",
+    "clienteNome": "Vitor Shimizu",
     "dataPedido": "2024-03-28",
     "valorTotal": 150.00
   }
@@ -118,7 +118,7 @@ A API expõe os seguintes endpoints:
 - **Exemplo de Request (JSON):**
   ```json
   {
-    "clienteNome": "Maria Oliveira",
+    "clienteNome": "Leonardo Ruiz",
     "valorTotal": 200.00
   }
   ```
@@ -126,7 +126,7 @@ A API expõe os seguintes endpoints:
   ```json
   {
     "id": 1,
-    "clienteNome": "Maria Oliveira",
+    "clienteNome": "Leonardo Ruiz",
     "dataPedido": "2024-03-28",
     "valorTotal": 200.00
   }
@@ -150,7 +150,5 @@ Aqui estão os prints dos testes realizados no **Postman**:
    - 📷 *[Print 4]*
 5. **Deletar um pedido**
    - 📷 *[Print 5]*
-
-_(Insira as imagens dos testes realizados no Postman)_
 
 ---
